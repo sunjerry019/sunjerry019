@@ -1,7 +1,19 @@
-### Hi there 👋
+## Hi there, servus! 👋
+
+I am a Singaporean Physics undergraduate at [LMU](https://www.en.uni-muenchen.de/) in Munich, Germany.
+
+I am enthusiatic about exploring things from the ground up to understand how everything works together  
+...and then building upon them.
+
+Talk to me about:  
+&nbsp;&nbsp;&nbsp;&nbsp;Physics, Software, Cooking, Photography
+
+If only there were more than 24 hours in a day....
 
 <!--
 **sunjerry019/sunjerry019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="47%" align="left" alt="sunjerry019's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjerry019&layout=compact">
+<img width="47%" align="left" alt="sunjerry019's github stats" src="https://github-readme-stats.vercel.app/api?username=sunjerry019&show_icons=true&count_private=true&hide=stars">
