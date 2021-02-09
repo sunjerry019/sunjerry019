@@ -8,6 +8,8 @@ I am enthusiatic about exploring things from the ground up to understand how eve
 Talk to me about:  
 &nbsp;&nbsp;&nbsp;&nbsp;Physics, Software, Cooking, Photography
 
+Open to collaborations :)
+
 If only there were more than 24 hours in a day....
 
 <!--
