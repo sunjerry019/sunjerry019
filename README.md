@@ -1,6 +1,6 @@
 ## Hi there, servus! 👋
 
-I am a Singaporean Physics undergraduate at [LMU](https://www.en.uni-muenchen.de/) in Munich, Germany.
+I am a Singaporean Physics / Quantum Science and Technology (QST) Masters' student at [LMU](https://www.en.uni-muenchen.de/)/[TUM](https://www.tum.de/en/) in Munich, Germany.
 
 I am enthusiatic about exploring things from the ground up to understand how everything works together  
 ...and then building upon them.
