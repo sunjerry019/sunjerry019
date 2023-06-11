@@ -5,9 +5,6 @@ I am a Singaporean Physics / Quantum Science and Technology (QST) Masters' stude
 I am enthusiatic about exploring things from the ground up to understand how everything works together  
 ...and then building upon them.
 
-Talk to me about:  
-&nbsp;&nbsp;&nbsp;&nbsp;Physics, Software, Cooking, Photography
-
 Open to collaborations :)
 
 If only there were more than 24 hours in a day....
