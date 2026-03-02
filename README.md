@@ -1,15 +1,6 @@
-## Hi there, servus! 👋
+Research Software in Quantum, mostly :)
 
-I am a Singaporean Physics / Quantum Science and Technology (QST) Masters' student at [LMU](https://www.en.uni-muenchen.de/)/[TUM](https://www.tum.de/en/) in Munich, Germany.
-
-I am enthusiatic about exploring things from the ground up to understand how everything works together  
-...and then building upon them.
-
-Open to collaborations :)
-
-If only there were more than 24 hours in a day....
-
-https://gist.github.com/sunjerry019
+**Gists**: https://gist.github.com/sunjerry019
 
 <!--
 **sunjerry019/sunjerry019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
